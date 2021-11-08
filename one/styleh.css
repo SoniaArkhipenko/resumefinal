@@ -1,0 +1,300 @@
+body{
+    justify-content: center;
+}
+.resume{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+position: relative;
+}
+.pig{
+position: absolute;
+border-radius: 100%;
+width: 180px;
+height: 180px;
+left: 25px;
+top: 32.5px;
+box-shadow: 0 0 15px rgba(0,0,0,0.5); /* Параметры тени */
+padding: 10px;
+}
+
+.green{
+position: absolute;
+width: 250px;
+height: 820px;
+background-color: rgb(171, 204, 204);
+}
+.grey{
+position:absolute;
+left: 250px;
+width: 400px;
+height: 820px;
+background-color: rgb(206, 235, 235);
+}
+
+.name{
+
+position: relative;
+}
+H1 {
+position: absolute;
+color: #000000;
+font-size: 110%;
+font-family: Lucida Sans Unicode;
+margin-left: 45px;
+text-align: left;
+margin-top: 250px;
+}
+
+H2 {
+position: absolute;
+color: #272727;
+font-size: 110%;
+font-weight: 200;
+font-family: Lucida Sans Unicode;
+text-align: left;
+margin-top: 250px;
+margin-left: 100px;
+}
+.profi{
+position: absolute;
+margin-top: 260px;
+font-family: Lucida Sans Unicode;
+margin-left: 30px;
+font-size: 80%;
+font-weight: 300;
+
+}
+.obo{
+position: absolute; 
+margin-top: 315px;
+margin-left: 85px;
+}
+.infa{
+position: absolute; 
+text-align: center;
+margin-top: 342px;
+font-family: Lucida Sans Unicode;
+margin-left: 1px;
+font-size: 80%;
+font-weight: 300;
+}
+.one{
+background-color: rgba(0, 0, 0, 0.452);
+margin-top: 480px;
+width: 200px;
+border-color: rgba(17, 17, 17, 0.13);
+}
+.svaz{
+position: absolute; 
+margin-top: 500px;
+margin-left: 58px;  
+}
+.svazz{
+position: absolute; 
+text-align: left;
+font-family: Lucida Sans Unicode;
+font-size: 70%;
+font-weight: 300;
+margin-top: 50px;
+margin-left: 20px;  
+}
+.oone{
+background-color: rgba(0, 0, 0, 0.452);
+margin-top: 175px;
+width: 200px;
+border-color: rgba(17, 17, 17, 0.13);
+}
+.pers{
+position: absolute; 
+text-align: left;
+font-family: Lucida Sans Unicode;
+
+margin-top: 5px;
+margin-left: 23px; 
+}
+.ar{ position: absolute; 
+text-align: center;
+font-family: Lucida Sans Unicode;
+margin-left: 25px;
+font-size: 80%;
+font-weight: 300;}
+.figma{margin-top: 37px;}
+.figmaa{margin-top: 67px;}
+.figmaaa{margin-top: 97px;}
+.o{ 
+position: absolute;
+height: 6px;
+width: 6px;
+border-radius: 100%;
+background-color: black;
+margin-top: 45px;}
+.od{ margin-left: 150px;}
+.oo{ margin-left: 165px;}
+.ooo{ margin-left: 180px;}
+.oooo{ margin-left: 195px;}
+.ooooo{ margin-left: 210px;}
+.b{ 
+position: absolute;
+height: 6px;
+width: 6px;
+border-radius: 100%;
+background-color: black;
+margin-top: 74px;
+}
+.br{ margin-left: 150px;}
+.bb{margin-left: 165px;}
+.bbb{margin-left: 180px;}
+.bbbb{margin-left: 195px;}
+.bbbbb{ background-color: rgba(0, 0, 0, 0.322); margin-left: 210px;}
+.c{ 
+position: absolute;
+height: 6px;
+width: 6px;
+border-radius: 100%;
+background-color: black;
+margin-top: 104px;
+}
+.cr{ margin-left: 150px;}
+.cc{ margin-left: 165px;}
+.ccc{ margin-left: 180px;}
+.cccc{ background-color: rgba(0, 0, 0, 0.322);margin-left: 195px;}
+.ccccc{background-color: rgba(0, 0, 0, 0.322);margin-left: 210px;} 
+.nov{ 
+position: absolute; 
+text-align: center;
+font-family: Lucida Sans Unicode;
+font-size: 70%;
+font-weight: 300;
+top: 5px;
+left: 92px;
+}
+.dark {
+position: absolute;
+height: 70px;
+width: 140px;
+background-color: rgb(171, 204, 204);
+left: 120px;
+}
+.darker {
+position: absolute;
+height: 70px;
+width: 100px;
+background-color: rgb(171, 204, 204);
+transform: skewX(45deg);
+left: 80px;
+}
+.darkerr {
+position: absolute;
+height: 70px;
+width: 100px;
+background-color: rgb(171, 204, 204);
+transform: skewX(-45deg);
+right: 80px;;
+}
+.black{
+position: absolute;
+top: 130px;
+left: 50px;
+height: 30px;
+width: 300px;
+background-color: black;
+font-family: Lucida Sans Unicode;
+font-size: 100%;
+text-align: center;
+color: white;
+}
+
+.onn{
+    position: absolute;
+    top: 160px;
+    left: 24px;
+    height: 120px;
+    width: 350px;
+}
+.nadp{
+    position: absolute;
+    height: 25px;
+    width: 350px;
+    background-color: rgb(112, 177, 182);
+    top: 290px;
+    left: 24px;
+    color: white;
+    font-family: Lucida Sans Unicode;
+font-size: 100%;
+text-align: center;
+
+}
+.x{
+    position: absolute; 
+text-align: left;
+font-family: Lucida Sans Unicode;
+font-size: 70%;
+font-weight: 300;
+top: 310px;
+left: 28px;
+}
+.onns{
+    position: absolute;
+    top: 360px;
+    left: 24px;
+    height: 120px;
+    width: 350px;
+}
+.nadps{
+    position: absolute;
+    height: 25px;
+    width: 350px;
+    background-color: rgb(112, 177, 182);
+    top: 490px;
+    left: 24px;
+    color: white;
+    font-family: Lucida Sans Unicode;
+font-size: 100%;
+text-align: center;
+
+}
+.xs{
+    position: absolute; 
+text-align: left;
+font-family: Lucida Sans Unicode;
+font-size: 70%;
+font-weight: 300;
+top: 510px;
+left: 28px;
+}
+.onnss{
+    position: absolute;
+    top: 560px;
+    left: 24px;
+    height: 120px;
+    width: 350px;
+}
+.nadpss{
+    position: absolute;
+    height: 25px;
+    width: 350px;
+    background-color: rgb(112, 177, 182);
+    top: 690px;
+    left: 24px;
+    color: white;
+    font-family: Lucida Sans Unicode;
+font-size: 100%;
+text-align: center;
+
+}
+.xss{
+    position: absolute; 
+text-align: left;
+font-family: Lucida Sans Unicode;
+font-size: 70%;
+font-weight: 300;
+top: 710px;
+left: 28px;
+}
+.ssilka{
+    top: 100px;
+    left: 178px;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    color: #000000;
+    }
